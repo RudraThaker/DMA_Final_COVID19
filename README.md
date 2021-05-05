@@ -74,7 +74,7 @@ Following methods will be used to read and execute SQL queries upon successfully
 
       user= 'dmacovid@gmail.com'
       msg['from']= user
-      password= 'otakkqloodnmtfht'
+      password= ''
 
       server= smtplib.SMTP('smtp.gmail.com', 587)
       server.starttls()
